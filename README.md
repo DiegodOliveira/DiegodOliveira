@@ -5,7 +5,6 @@ diegooscipriano@tutanota.com
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-de-oliveira-853213249/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NEETtheoriginal)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/GothHouse#0637)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://pt.quora.com/profile/Diego-De-Oliveira-7)
 
 ![DiegodOliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegodOliveira&show_icons=true&theme=tokyonight)
