@@ -1,7 +1,7 @@
-# Olá, Bem-Vindo ao meu perfil.🎆
+# Hello, welcome to my profile.🎆
 
--Quero aprender sobre Machine Learning e IA.:robot:<br>
--Grande fã do Jean-Michael Basquiat.:paintbrush:
+-Great interest in Machine Learning and IA.:robot:<br>
+-Great Jean-Michael Basquiat's fan.:paintbrush:
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-de-oliveira-853213249/)
