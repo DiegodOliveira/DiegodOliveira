@@ -16,6 +16,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegodOliveira&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/DiegodOliveira/github-readme-stats)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DiegodOliveira&bg_color=00008b&color=00bfff&line=0000ff&point=1e90e1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## Technologies that i use.
 
