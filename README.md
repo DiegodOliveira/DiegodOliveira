@@ -1,7 +1,16 @@
-# Hello, welcome to my profile.🎆
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682b4&height=120&section=header"/>
 
--Great interest in Machine Learning and IA.:robot:<br>
--Great Jean-Michael Basquiat's fan.:paintbrush:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682b4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Diego+de+Oliveira;I'm+20+years+old;I'm+from+Brazil;I+am+studying+systems+for+internet+devlopment;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiegodOliveira&bg_color=0d1117&color=00bfff&line=b0c4de&point=4682b4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DiegodOliveira&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+# About me
+
+Greetings! I'm a passionate individual with a profound interest in the remarkable fields of machine learning and artificial intelligence. I am driven by the desire to understand and harness the transformative power of these cutting-edge technologies. Allow me to introduce myself as someone who embodies the qualities of being cooperative, focused, and willing to compromise to achieve success in this ever-evolving domain.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-de-oliveira-853213249/)
@@ -10,7 +19,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2022211510062@iesp.edu.br)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ciprianodiegooliveira@gmail.com)
 [![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](mailto:diegooscipriano@tutanota.com)
-
 
 ![DiegodOliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegodOliveira&show_icons=true&theme=tokyonight)
 
@@ -35,3 +43,5 @@
  <img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682b4&height=120&section=footer"/>
