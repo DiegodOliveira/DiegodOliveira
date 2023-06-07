@@ -12,19 +12,22 @@
 
 Greetings! I'm a passionate individual with a profound interest in the remarkable fields of machine learning and artificial intelligence. I am driven by the desire to understand and harness the transformative power of these cutting-edge technologies. Allow me to introduce myself as someone who embodies the qualities of being cooperative, focused, and willing to compromise to achieve success in this ever-evolving domain.
 
+## Contact me!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-de-oliveira-853213249/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NEETtheoriginal)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://pt.quora.com/profile/Diego-De-Oliveira-7)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2022211510062@iesp.edu.br)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ciprianodiegooliveira@gmail.com)
 [![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](mailto:diegooscipriano@tutanota.com)
 
-![DiegodOliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegodOliveira&show_icons=true&theme=tokyonight)
+# My stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegodOliveira&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/DiegodOliveira/github-readme-stats)
-
-
+<div align="center">
+  <a href="https://github.com/DiegodOliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegodOliveira&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegodOliveira&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
 ## Technologies that i use.
 
 <div style="display: inline_block"><br>
