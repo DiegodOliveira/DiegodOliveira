@@ -10,7 +10,7 @@
 
 # About me
 
-Greetings! I'm a passionate individual with a profound interest in the remarkable fields of machine learning and artificial intelligence. I am driven by the desire to understand and harness the transformative power of these cutting-edge technologies. Allow me to introduce myself as someone who embodies the qualities of being cooperative, focused, and willing to compromise to achieve success in this ever-evolving domain.
+Greetings! I'm a passionate individual with a profound interest in the remarkable fields of machine learning and artificial intelligence, i am mainly focused on web devlopment in the moment. I am driven by the desire to understand and harness the transformative power of these cutting-edge technologies. Allow me to introduce myself as someone who embodies the qualities of being cooperative, focused, and willing to compromise to achieve success in this ever-evolving domain.
 
 ## Contact me!
 
@@ -37,6 +37,7 @@ Greetings! I'm a passionate individual with a profound interest in the remarkabl
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img align="center" alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ## Technologies that i want to learn.
