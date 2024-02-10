@@ -65,8 +65,4 @@ Greetings! I'm a passionate individual with a profound interest in the remarkabl
   />
 </picture>
 
-<div align="left">
-  <img src="https://i.gifer.com/WiCG.gif">
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682b4&height=120&section=footer"/>
