@@ -12,6 +12,10 @@
 
 Greetings! I'm a passionate individual with a profound interest in the remarkable fields of machine learning and artificial intelligence, i am mainly focused on web devlopment in the moment. I am driven by the desire to understand and harness the transformative power of these cutting-edge technologies. Allow me to introduce myself as someone who embodies the qualities of being cooperative, focused, and willing to compromise to achieve success in this ever-evolving domain.
 
+<div >
+  <img height="650px" weight="550px" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif"/>
+</div>
+
 ## Contact me!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-de-oliveira-853213249/)
@@ -64,9 +68,5 @@ Greetings! I'm a passionate individual with a profound interest in the remarkabl
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-<div style="display: flex" align="right">
-  <img src="https://i.pinimg.com/originals/0e/f0/55/0ef055dcf213cd0c8ebc756f7ce0127f.gif"/>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682b4&height=120&section=footer"/>
