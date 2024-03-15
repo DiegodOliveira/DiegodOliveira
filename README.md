@@ -12,8 +12,8 @@
 
 Greetings! I'm a passionate individual with a profound interest in the remarkable fields of machine learning and artificial intelligence, i am mainly focused on web devlopment in the moment. I am driven by the desire to understand and harness the transformative power of these cutting-edge technologies. Allow me to introduce myself as someone who embodies the qualities of being cooperative, focused, and willing to compromise to achieve success in this ever-evolving domain.
 
-<div >
-  <img height="650px" weight="550px" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif"/>
+<div align="center">
+  <img height="500px" weight="450px" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif"/>
 </div>
 
 ## Contact me!
