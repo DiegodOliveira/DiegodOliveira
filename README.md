@@ -8,11 +8,10 @@
 
 Greetings! I'm a passionate individual with a profound interest in the remarkable fields of machine learning and artificial intelligence, i am mainly focused on web devlopment in the moment. I am driven by the desire to understand and harness the transformative power of these cutting-edge technologies. Allow me to introduce myself as someone who embodies the qualities of being cooperative, focused, and willing to compromise to achieve success in this ever-evolving domain.
 
-## Contact me!
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-de-oliveira-853213249/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ciprianodiegooliveira@gmail.com)
 [![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](mailto:diegooscipriano@tutanota.com)
+
 
 # My stats and technologies
 
