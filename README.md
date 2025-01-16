@@ -16,7 +16,7 @@ Greetings! I'm a passionate individual with a profound interest in the remarkabl
 # My stats and technologies
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegodOliveira&show_icons=true&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegodOliveira&rank_icon=github&show_icons=true&theme=algolia"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegodOliveira&hide=jupyter%20notebook&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
