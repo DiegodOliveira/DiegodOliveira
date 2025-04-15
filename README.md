@@ -29,7 +29,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/DiegodOliveira/readme-template/blob/main/Captura%20de%20tela%202025-04-15%20171621.png" width="900px">
+  <img src="https://github.com/DiegodOliveira/readme-template/blob/main/Captura%20de%20tela%202025-04-15%20174903.png" width="900px">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682b4&height=120&section=footer"/>
